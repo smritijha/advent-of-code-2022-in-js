@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "advent-of-code-2022-in-js",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smritijha/advent-of-code-2022-in-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smritijha/advent-of-code-2022-in-js/issues"
+  },
+  "homepage": "https://github.com/smritijha/advent-of-code-2022-in-js#readme"
+}
