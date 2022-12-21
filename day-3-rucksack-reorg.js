@@ -3,7 +3,6 @@
 import {readFile} from "./utils.js";
 var data = readFile("data/rucksack-items.txt");
 
-// function that takes a string and returns a number
 function getCommonItemPriority(item) {
     var len = item.length
     // split string at index
