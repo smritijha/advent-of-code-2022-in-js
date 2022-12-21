@@ -25,6 +25,5 @@ function getCommonItemPriority(item) {
 }
 
 var items = data.split("\n");
-// length of a string
 var priorityScores = items.map(item => getCommonItemPriority(item));
 console.log(priorityScores.reduce((acc, val) => acc + val, 0));
